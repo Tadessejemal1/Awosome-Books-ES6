@@ -5,6 +5,8 @@
 # Description
 
 > A simple website containing a list of books that can be modified through adding or removing a book
+> Re-create Awesome books app using ES6 syntax
+> Divide the code into modules
 
 
 ## Built With
@@ -40,21 +42,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
-
 ## 👤 Tadesse J.
 
   > GitHub: https://github.com/Tadessejemal1 
   > 
   > LinkedIn: https://www.linkedin.com
-
-👤 **Author2**
-
-## 👤 Peter Beshara.
-
-- GitHub: [@Peter1907](https://github.com/Peter1907)
-- Twitter: [@Peter_Beshara_](https://twitter.com/Peter_Beshara_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peter-beshara-b33681241/)
 
 ## 🤝 Contributing
 
