@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Awosome Books</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header id="header">
+        <nav class="nav-links">
+            <h2>Awesome Books</h2>
+            <ul>
+                <li>
+                    <a href="#" class="nav-a" id="list-link"> List</a><span class="spacer"></span>
+                </li>
+                <li>
+                    <a href="#" class="nav-a" id="add-link">Add new</a><span class="spacer"></span>
+                </li>
+                <li>
+                    <a href="#" class="nav-a" id="contact-link">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Time & Data -->
+    
+    <p class="dateTime"></p>
+   
+    <!-- Content here is added from javaScript -->
+    <section class="book-list">
+        <h1 class="book-header">All awesome books</h1>
+        <section class="book-store">
+        </section>
+    </section>
+    <!-- Add New Book -->
+    <section class="form hidden">
+        <h2>Add a new book</h2>
+        <form id="add-new-book">
+            <input class="book-title" type="text" placeholder="Title" autofocus required />
+            <input class="book-author" type="text" placeholder="Author" required />
+            <input id="add-btn" class="btn add-btn hide" type="submit" value="Add" />
+        </form>
+    </section>
+    <!-- Contact Section -->
+    <section class="contact-info hidden">
+        <div class="contact-section">
+            <h2 class="contact-header">Contact Information</h2>
+            <p>
+            Do you have any questions or you just want to say "Hello"?<br/>
+            You can reach out to us!
+            </p>
+            <ul id="contact-info-list">
+                <li>Our e-mail: email@email.com</li>
+                <li>Our phone number: 09090900909</li>
+                <li>Our address: 55 Awesome Street, Andromeda Galaxy</li>
+            </ul>
+        </div>
+    </section>
+      <!-- Footer -->
+    <footer>
+        <div>
+          <p>Copyright ...</p>
+        </div>
+    </footer>
+<script src="./js/index.js"></script>
+</body>
+</html>
