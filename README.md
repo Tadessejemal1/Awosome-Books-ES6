@@ -1,10 +1,12 @@
 # Project Name
 
-> Awesome Books
+> Awesome Books with ES6
 
 # Description
 
 > A simple website containing a list of books that can be modified through adding or removing a book
+> Re-create Awesome books app using ES6 syntax
+> Divide the code into modules
 
 
 ## Built With
@@ -29,8 +31,9 @@ To get a local copy up and running follow these simple example steps.
  - [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
 
 ### Setup
-  1. Download the **Zip** file or clone the repo with: ```bash git clone [https://github.com/Tadessejemal1/Awesome-books.git-  https://github.com/Tadessejemal1/Awesome-books.git/)
-  2.  ``` To access cloned directory run: ```bash cd/Single-page-website ``` 
+  1. Download the **Zip** file or clone the repo with: ```bash git clone [https://github.com/Tadessejemal1/
+Awosome-Books-ES6.git-  https://github.com/Tadessejemal1/Awosome-Books-ES6.git/)
+  2.  ``` To access cloned directory run: ```bash cd/Awosome-Books-ES6 ``` 
   3. Open it with the live server or just  open the "index.html" file with any browser
 
 ### Usage
@@ -38,23 +41,13 @@ To get a local copy up and running follow these simple example steps.
   - To add a book to the list .. navigate to the "Add new" section & add the "title"   and the "author", then click Add.
   - To remove a book from the list click teh remove button displayed next to the book in the "List" section.
 
-## Authors
-
-👤 **Author1**
+## Author
 
 ## 👤 Tadesse J.
 
   > GitHub: https://github.com/Tadessejemal1 
   > 
   > LinkedIn: https://www.linkedin.com
-
-👤 **Author2**
-
-## 👤 Peter Beshara.
-
-- GitHub: [@Peter1907](https://github.com/Peter1907)
-- Twitter: [@Peter_Beshara_](https://twitter.com/Peter_Beshara_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peter-beshara-b33681241/)
 
 ## 🤝 Contributing
 
