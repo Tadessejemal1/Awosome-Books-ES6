@@ -1,6 +1,7 @@
-import {Collection, bookAuthor, bookTitle} from '../module/books.js';
-import Time from '../Module/dateTime.js';
+import { Collection, bookAuthor, bookTitle } from '../module/books.js';
+import Time from '../module/dateTime.js';
 import Book from '../module/bookList.js';
+
 const bookBtn = document.getElementById('add-btn');
 const booksSection = document.querySelector('.book-list');
 const addSection = document.querySelector('.form');
@@ -8,8 +9,6 @@ const contactSection = document.querySelector('.contact-info');
 const booksLink = document.getElementById('list-link');
 const addLink = document.getElementById('add-link');
 const contactLink = document.getElementById('contact-link');
-
-
 
 Time();
 
